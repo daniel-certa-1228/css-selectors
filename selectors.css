@@ -1,0 +1,23 @@
+/******************************
+	ELEMENT STYLES
+******************************/
+
+body {
+	background-color: #dee8f7;
+}
+
+header {
+	border: 1px solid navy;
+}
+
+#nav-ul {
+	padding-left: 1em;
+
+}
+
+#nav-ul li {
+	display: inline-block;
+	list-style: none;
+	padding; 0;
+	margin: 0 10px 0 0;
+}
